@@ -1,1 +1,1 @@
-# myTestRepoGit kurzus, nem kezd‹ szinten 
+# myTestRepo
